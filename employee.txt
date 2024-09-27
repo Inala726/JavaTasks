@@ -1,0 +1,2 @@
+1,Monkey D Luffy,493500.0,Captain,OTHER
+2,Roronoa Zoro,388000.0,Swordsman,LATE
